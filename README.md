@@ -37,7 +37,7 @@ The task was part of a networking fundamentals exercise to understand how data f
 ## 📡 How Traffic Was Generated
 
 1. Started Wireshark on the active network interface
-2. Visited `http://neverssl.com` in a browser to capture HTTP, DNS, and TCP
+2. Visited `http://instagram.com` in a browser to capture HTTP, DNS, and TCP
 3. Used terminal commands:
    - `ping instagram.com` (to generate ICMP)
    - `nslookup instagram.com` (to trigger DNS queries)
