@@ -29,7 +29,6 @@ The task was part of a networking fundamentals exercise to understand how data f
 ## 🔍 Protocols Captured
 
 - **DNS** – Domain name resolution (e.g., `instagram.com`)
-- **HTTP** – Unencrypted web traffic (via `http://neverssl.com`)
 - **ICMP** – Network layer diagnostics (ping to `instagram.com`)
 - **ARP** – Local MAC address resolution prior to IP routing
 
